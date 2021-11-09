@@ -1,0 +1,1 @@
+var names = ["BMW","Toyoat","Opel","leux","Hando","Volkswagen","Smart","Suzuki","Subaru","RAM","Seat","Nissan","Mazda","Mercedes-Benz"];
